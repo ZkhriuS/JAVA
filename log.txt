@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-01-24T14:59:29.834034100Z</date>
+  <millis>1674572369834</millis>
+  <nanos>34100</nanos>
+  <sequence>0</sequence>
+  <logger>seminar2.Task0</logger>
+  <level>SEVERE</level>
+  <class>seminar2.Task0</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Файл не найден</message>
+</record>
+</log>
