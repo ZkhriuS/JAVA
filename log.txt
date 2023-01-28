@@ -14,3 +14,95 @@
   <message>Файл не найден</message>
 </record>
 </log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-01-24T17:30:03.347928900Z</date>
+  <millis>1674581403347</millis>
+  <nanos>928900</nanos>
+  <sequence>0</sequence>
+  <logger>seminar2.Task0</logger>
+  <level>SEVERE</level>
+  <class>seminar2.Task0</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Файл не найден</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-01-24T17:30:31.725437400Z</date>
+  <millis>1674581431725</millis>
+  <nanos>437400</nanos>
+  <sequence>0</sequence>
+  <logger>seminar2.Task0</logger>
+  <level>INFO</level>
+  <class>seminar2.Task0</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Добавлен байт в файл</message>
+</record>
+<record>
+  <date>2023-01-24T17:30:35.649213500Z</date>
+  <millis>1674581435649</millis>
+  <nanos>213500</nanos>
+  <sequence>1</sequence>
+  <logger>seminar2.Task0</logger>
+  <level>INFO</level>
+  <class>seminar2.Task0</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Файл прочитан</message>
+</record>
+<record>
+  <date>2023-01-24T17:31:40.098837300Z</date>
+  <millis>1674581500098</millis>
+  <nanos>837300</nanos>
+  <sequence>2</sequence>
+  <logger>seminar2.Task0</logger>
+  <level>INFO</level>
+  <class>seminar2.Task0</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Файл прочитан</message>
+</record>
+<record>
+  <date>2023-01-24T17:32:00.441888800Z</date>
+  <millis>1674581520441</millis>
+  <nanos>888800</nanos>
+  <sequence>3</sequence>
+  <logger>seminar2.Task0</logger>
+  <level>SEVERE</level>
+  <class>seminar2.Task0</class>
+  <method>inputByte</method>
+  <thread>1</thread>
+  <message>Данные не являются числом</message>
+</record>
+<record>
+  <date>2023-01-24T17:32:04.715614600Z</date>
+  <millis>1674581524715</millis>
+  <nanos>614600</nanos>
+  <sequence>4</sequence>
+  <logger>seminar2.Task0</logger>
+  <level>INFO</level>
+  <class>seminar2.Task0</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Добавлен байт в файл</message>
+</record>
+<record>
+  <date>2023-01-24T17:32:13.829625400Z</date>
+  <millis>1674581533829</millis>
+  <nanos>625400</nanos>
+  <sequence>5</sequence>
+  <logger>seminar2.Task0</logger>
+  <level>INFO</level>
+  <class>seminar2.Task0</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Файл прочитан</message>
+</record>
+</log>
