@@ -20,6 +20,7 @@ public class Homework {
         System.out.println("Минимум: "+getMin(srcList));
         System.out.println("Максимум: "+getMax(srcList));
         System.out.println("Среднее: "+getAverage(srcList));
+
     }
 
     // Нужно удалить из него четные числа
