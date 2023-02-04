@@ -15,8 +15,8 @@ public class Homework {
         // result [0,0,1]
         System.out.println(hw.sum(new ArrayDeque<>(Arrays.asList(5,-2)), new ArrayDeque<>(Arrays.asList(5))));
         // result [0,-2]
-        System.out.println(hw.multiple(new ArrayDeque<>(Arrays.asList(4, 7, 8)), new ArrayDeque<>(Arrays.asList(3,-2))));
-        System.out.println(hw.sum(new ArrayDeque<>(Arrays.asList(9, 1, 5, -9)), new ArrayDeque<>(Arrays.asList(0, 6))));
+        System.out.println(hw.multiple(new ArrayDeque<>(Arrays.asList(4, 7, -8)), new ArrayDeque<>(Arrays.asList(0))));
+        System.out.println(hw.sum(new ArrayDeque<>(Arrays.asList(9, 1, 5, -9)), new ArrayDeque<>(Arrays.asList(0, -6))));
     }
 
     // Умножьте два числа и верните произведение в виде связанного списка.
