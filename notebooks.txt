@@ -1,0 +1,8 @@
+ASUS 16 128 Windows серый
+Apple 8 64 MacOS белый
+Lenovo 4 64 Windows серый
+Lenovo 8 128 Windows черный
+Acer 16 256 Windows серый
+ASUS 16 256 Windows черный
+Apple 16 128 MacOS серый
+Apple 8 128 MacOS белый
